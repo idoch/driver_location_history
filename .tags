@@ -1,0 +1,56 @@
+html	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^<html lang="en" ng-app="driver_location_history">$/;"	function	line:2
+head	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^<head>$/;"	function	line:3
+meta	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <meta charset="utf-8">$/;"	function	line:4
+meta	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">$/;"	function	line:5
+meta	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0">$/;"	function	line:6
+title	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <title>driverLocationHistory<\/title>$/;"	function	line:7
+link	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <link href="lib\/bootstrap-css\/css\/bootstrap.css" rel="stylesheet">$/;"	function	line:8
+link	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <link href="css\/app.css" rel="stylesheet">$/;"	function	line:9
+body	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^<body>$/;"	function	line:11
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <div class="container full-page" ng-view><\/div>$/;"	function	line:12
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/lodash\/lodash.js"><\/script>$/;"	function	line:13
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular\/angular.js"><\/script>$/;"	function	line:14
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-resource\/angular-resource.js"><\/script>$/;"	function	line:15
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-route\/angular-route.js"><\/script>$/;"	function	line:16
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-bootstrap\/ui-bootstrap.js"><\/script>$/;"	function	line:17
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-bootstrap\/ui-bootstrap-tpls.js"><\/script>$/;"	function	line:18
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-simple-logger\/dist\/angular-simple-logger.js"><\/script>$/;"	function	line:19
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="lib\/angular-google-maps\/dist\/angular-google-maps.js"><\/script>$/;"	function	line:20
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="js\/app.js"><\/script>$/;"	function	line:22
+script	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/index.html	/^  <script src="js\/home\/home-controller.js"><\/script>$/;"	function	line:23
+body	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^body {$/;"	function	line:1
+html	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^html {$/;"	function	line:7
+body	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^body {$/;"	function	line:10
+.container	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^.container {$/;"	function	line:16
+#nav .row	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^#nav .row {$/;"	function	line:21
+#nav .datepicker	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^#nav .datepicker {$/;"	function	line:24
+#nav	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^#nav {$/;"	function	line:28
+.angular-google-map, .angular-google-map-container, #map_canvas	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/css/app.css	/^.angular-google-map, .angular-google-map-container, #map_canvas {$/;"	function	line:38
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^<div id="nav">$/;"	function	line:1
+form	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^  <form class="form-inline" ng-submit="home.findDriverPoints()">$/;"	function	line:2
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^    <div class="form-group">$/;"	function	line:3
+label	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <label class="sr-only" for="env">Env:<\/label>$/;"	function	line:4
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^    <div class="form-group">$/;"	function	line:8
+label	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <label class="sr-only" for="driverID">Driver Id:<\/label>$/;"	function	line:9
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^    <div class="form-group">$/;"	function	line:13
+label	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <label class="sr-only" for="startDate">Start date:<\/label>$/;"	function	line:14
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <div class="input-group">$/;"	function	line:15
+span	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^        <span class="input-group-btn" style="width: initial;">$/;"	function	line:18
+i	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^            <i class="glyphicon glyphicon-calendar"><\/i>$/;"	function	line:21
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^    <div class="form-group">$/;"	function	line:26
+label	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <label class="sr-only" for="endDate">End date:<\/label>$/;"	function	line:27
+div	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^      <div class="input-group">$/;"	function	line:28
+span	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^        <span class="input-group-btn" style="width: initial;">$/;"	function	line:31
+i	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^            <i class="glyphicon glyphicon-calendar"><\/i>$/;"	function	line:34
+button	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^    <button type="submit" class="btn btn-default btn-lg">Send<\/button>$/;"	function	line:39
+ui	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/views/home/home.html	/^  <ui-gmap-markers coords="'self'" models='home.foundPoints'>$/;"	function	line:46
+app	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/js/home/home-controller.js	/^var app = angular.module('driver_location_history');$/;"	variable	line:2
+openDatePicker	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/js/home/home-controller.js	/^    self.openDatePicker = function (name) {$/;"	function	line:14
+findDriverPoints	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/public/js/home/home-controller.js	/^    self.findDriverPoints = function () {$/;"	function	line:18
+PointEvent	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^type PointEvent struct {$/;"	type	line:15
+alive	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func alive(res http.ResponseWriter, req *http.Request) {$/;"	func	line:27
+getDriverLocation	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func getDriverLocation(res http.ResponseWriter, req *http.Request) {$/;"	func	line:31
+point	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^		var point PointEvent$/;"	var	line:61
+renderJSON	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func renderJSON(r http.ResponseWriter, status int, v interface{}) {$/;"	func	line:85
+result	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^	var result []byte$/;"	var	line:86
+err	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^	var err error$/;"	var	line:87

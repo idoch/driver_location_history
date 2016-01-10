@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+PointEvent	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^type PointEvent struct {$/;"	type	line:15
+alive	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func alive(res http.ResponseWriter, req *http.Request) {$/;"	func	line:27
+getDriverLocation	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func getDriverLocation(res http.ResponseWriter, req *http.Request) {$/;"	func	line:31
+point	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^		var point PointEvent$/;"	var	line:61
+renderJSON	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^func renderJSON(r http.ResponseWriter, status int, v interface{}) {$/;"	func	line:85
+result	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^	var result []byte$/;"	var	line:86
+err	/Users/idoch/Documents/gettaxi/go_projects/src/driver_location_history/endpoints.go	/^	var err error$/;"	var	line:87

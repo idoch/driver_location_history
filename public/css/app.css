@@ -1,0 +1,41 @@
+body {
+  margin-
+  top: 60px;
+  padding: 10px;
+}
+
+html {
+  height: 100%
+}
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #ECF0F1;
+}
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+#nav .row {
+  margin-left: 10px
+}
+#nav .datepicker {
+  margin-top: 7px;
+  width: 15%;
+}
+#nav {
+  max-width: 1000px;
+  z-index: 100;
+  position: absolute;
+  margin: 10px 0px 0px 150px;
+  background-color: #FDFDFD;
+  box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+  padding: 10px;
+}
+
+.angular-google-map, .angular-google-map-container, #map_canvas {
+  width: 100%;
+  height: 100%;
+}

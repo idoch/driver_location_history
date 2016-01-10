@@ -1,0 +1,48 @@
+<div id="nav">
+  <form class="form-inline" ng-submit="home.findDriverPoints()">
+    <div class="form-group">
+      <label class="sr-only" for="env">Env:</label>
+      <input type="text" id="env" placeholder="Enter environment" class="form-control"
+              ng-model="home.searchedEnv"/>
+    </div>
+    <div class="form-group">
+      <label class="sr-only" for="driverID">Driver Id:</label>
+      <input type="text" id="driverID" placeholder="Enter driver ID" class="form-control"
+              ng-model="home.searchedDriver.id"/>
+    </div>
+    <div class="form-group">
+      <label class="sr-only" for="startDate">Start date:</label>
+      <div class="input-group">
+        <input type="text" class="form-control" id="startDate"
+               datepicker-popup="dd/MM/yyyy" ng-model="home.searchedDriver.startDate" is-open="home.startDateOpened" show-weeks="false" placeholder="Start Date"/>
+        <span class="input-group-btn" style="width: initial;">
+          <button type="button" class="btn btn-default"
+                  ng-click="home.openDatePicker('startDateOpened')">
+            <i class="glyphicon glyphicon-calendar"></i>
+          </button>
+        </span>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="sr-only" for="endDate">End date:</label>
+      <div class="input-group">
+        <input type="text" class="form-control" id="endDate"
+               datepicker-popup="dd/MM/yyyy" ng-model="home.searchedDriver.endDate" is-open="home.endDateOpened" show-weeks="false" placeholder="End Date"/>
+        <span class="input-group-btn" style="width: initial;">
+          <button type="button" class="btn btn-default"
+                  ng-click="home.openDatePicker('endDateOpened')">
+            <i class="glyphicon glyphicon-calendar"></i>
+          </button>
+        </span>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-default btn-lg">Send</button>
+  </form>
+</div>
+<ui-gmap-google-map id="map_canvas"
+                    zoom="home.map_settings.zoom"
+                    center="home.map_settings.center">
+
+  <ui-gmap-markers coords="'self'" models='home.foundPoints'>
+  </ui-gmap-markers>
+</ui-gmap-google-map>
